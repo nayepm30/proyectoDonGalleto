@@ -1,0 +1,48 @@
+.navbar-custom {
+    background-color: #D2B48C; 
+  }
+  .navbar-brand {
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  .nav-link {
+    font-size: 1.2rem;
+    color: #4B2E2E; 
+  }
+  .nav-link:hover {
+    color: #8B4513; 
+  }
+  .sidebar {
+    background-color: #F5EFE6; 
+    min-height: 100vh; 
+    padding-top: 20px;
+  }
+  .sidebar a {
+    display: block;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    color: #4B2E2E; 
+    text-decoration: none;
+  }
+  .sidebar a:hover {
+    background-color: #D2B48C; 
+    color: #fff; 
+  }
+  .main-content {
+    background-color: #F5EFE6; 
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+  .main-content h1 {
+    font-size: 2.5rem;
+    color: #4B2E2E; 
+    margin-bottom: 10px;
+  }
+  .main-content p {
+    font-size: 1.2rem;
+    color: #4B2E2E;
+  }
